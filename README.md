@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm GEMMA 👋
 
-<!--
-**gemmatruong/gemmatruong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science junior  
+📊 Interested in data science & software development  
+🦷 Part-time dental assistant (real-world problem solver)
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- Python, C++, JavaScript
+- Flask, HTML/CSS
+- Git, Linux, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- Professional Dental Website with automatic chat assistant (Python, Flask, HTML, CSS, JS, etc.)
+- Restaurant Recommendation App (C++)
+- Schedule Calendar (C++)
+
+### 📫 Reach me
+- LinkedIn: https://www.linkedin.com/in/gemmatruong/
+- Email: gemmatruong99@gmail.com
