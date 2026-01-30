@@ -6,14 +6,15 @@
 
 <p><strong>Computer Science Junior | Fullstack Developer | Data-Curious</strong></p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gemmatruong&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=gemmatruong&style=for-the-badge&color=00A86B)
 
 </div>
 
-💻 CS junior with hands-on experience building real-world web and C++ applications  
-📊 Interested in data science, backend systems, and problem-driven development  
-🦷 Part-time dental assistant — bringing real user pain points into software solutions  
-🎯 Actively seeking a **Fullstack Engineering or Data Science internship** where I can contribute to real-world projects and continue growing as a developer
+💻 CS junior with hands-on experience building real-world web and C++ applications
+🎯 Actively seeking a **Fullstack Engineering or Data Science internship** to learn, contribute and grow
+⭐ Interested in system design, data science, and UX/UI development
+🦷 Part-time dental assistant - bringing real user pain points into software solutions  
+👩‍🎤 I am patient, consistent, and detail-oriented.
 
 ---
 
@@ -46,11 +47,6 @@ Data structures · OOP · Backend APIs · File-based & SQL databases
 
 ---
 
-### 📈 GitHub Stats
-![Gemma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gemmatruong&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gemmatruong&layout=compact)
-
----
 
 ### 📫 Let's Connect
 🔗 LinkedIn: [linkedin.com/in/gemmatruong](https://www.linkedin.com/in/gemmatruong/)  
