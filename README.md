@@ -4,7 +4,7 @@
   Hi, I'm Gemma 😻
 </h2>
 
-<p>Computer Science Junior | Software Developer | Data-Curious</p>
+<p><strong>Computer Science Junior | Fullstack Developer | Data-Curious</strong></p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gemmatruong&style=flat-square)
 
@@ -13,6 +13,7 @@
 💻 CS junior with hands-on experience building real-world web and C++ applications  
 📊 Interested in data science, backend systems, and problem-driven development  
 🦷 Part-time dental assistant — bringing real user pain points into software solutions  
+🎯 Actively seeking a **Fullstack Engineering or Data Science internship** where I can contribute to real-world projects and continue growing as a developer
 
 ---
 
