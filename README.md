@@ -4,17 +4,19 @@
   Hi, I'm Gemma 😻
 </h2>
 
-<span style="font-size:40px;"><strong>Computer Science Junior | Fullstack Developer | Data-Curious</strong></span>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=b5e48c&size=25&lines=Welcome+to+my+GitHub+Profile!" /></a>
+
+<span style="font-size:50;"><strong>Computer Science Junior | Fullstack Developer | Data-Curious</strong></span>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gemmatruong&style=flat-square&color=6a994e)
 
 </div>
 
-💻 CS junior with hands-on experience building real-world web and C++ applications
-🎯 Actively seeking a **Fullstack Engineering or Data Science internship** to learn, contribute and grow
-⭐ Interested in system design, data science, and UX/UI development
-🦷 Part-time dental assistant - bringing real user pain points into software solutions  
-👩‍🎤 I am patient, consistent, and detail-oriented.
+💻 CS junior with hands-on experience building real-world web and C++ applications<br>
+🎯 Actively seeking a **Fullstack Engineering or Data Science internship** to learn, contribute and grow<br>
+⭐ Interested in system design, data science, and UX/UI development<br>
+🦷 Part-time dental assistant - bringing real user pain points into software solutions<br>
+👩‍🎤 I am patient, consistent, and detail-oriented<br>
 
 ---
 
