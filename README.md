@@ -1,5 +1,7 @@
 ## Hi, I'm GEMMA 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=gemmatruong&color=blue)
+
 💻 Computer Science junior  
 📊 Interested in data science & software development  
 🦷 Part-time dental assistant (real-world problem solver)
