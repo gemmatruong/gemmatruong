@@ -4,9 +4,9 @@
   Hi, I'm Gemma 😻
 </h2>
 
-<p><strong>Computer Science Junior | Fullstack Developer | Data-Curious</strong></p>
+<span style="font-size:40px;"><strong>Computer Science Junior | Fullstack Developer | Data-Curious</strong></span>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gemmatruong&style=for-the-badge&color=00A86B)
+![Profile Views](https://komarev.com/ghpvc/?username=gemmatruong&style=flat-square&color=6a994e)
 
 </div>
 
