@@ -37,7 +37,7 @@ Data Structures · OOP · RESTful APIs · Backend Architecture · SQL & File-Bas
 🔹 **Dental Clinic Website & AI Chat Assistant**  
 > Designed and built a full-stack Flask application used to answer real patient FAQs, reducing repetitive front-desk inquiries  
 > Implemented Groq AI chatbot by scraping and structuring site content for accurate responses  
-**Tech:** Python, Flask, HTML/CSS, JavaScript
+**Tech:** Python, Flask, HTML/CSS, JavaScript, integrated-Groq AI
 
 🔹 **Restaurant Recommendation System**  
 > C++ application that suggests top restaurants by cuisine, distance, and ratings  
