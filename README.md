@@ -6,7 +6,7 @@
 
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=b5e48c&size=25&lines=Welcome+to+my+GitHub+Profile!" /></a>
 
-<span style="font-size:50;"><strong>Computer Science Junior • Full-Stack Developer • Data & Systems Enthusiast</strong>
+<span style="font-size:50;"><strong>Computer Science Junior • Full-Stack Developer • Data & Systems Enthusiast • Cat Lover</strong>
 </span>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gemmatruong&style=flat-square&color=6a994e)
