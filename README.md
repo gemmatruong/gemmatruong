@@ -4,7 +4,7 @@
   Hi, I'm Gemma 😻
 </h2>
 
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=Orbitron&color=b5e48c&size=30&lines=Welcome+to+my+GitHub+Homepage!" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=Orbitron&color=b5e48c&size=25&duration=2500&lines=Welcome+to+my+GitHub+Profile!" /></a>
 
 <span style="font-size:50;"><strong>Computer Science Junior • Full-Stack Developer • Data & Systems Enthusiast • Cat Lover</strong>
 </span>
