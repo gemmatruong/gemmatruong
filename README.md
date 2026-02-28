@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### ⚛ Tech Stack
 **Languages:**  
 Python · C++ · JavaScript · SQL  
 
@@ -34,17 +34,17 @@ Data Structures · OOP · RESTful APIs · Backend Architecture · SQL & File-Bas
 
 ---
 
-### 🚀 Featured Projects
-🔹 **Dental Clinic Website & AI Chat Assistant**  
+### 👩🏻‍💻 Featured Projects
+🌸 **Dental Clinic Website & AI Chat Assistant**  
 > Designed and built a full-stack Flask application used to answer real patient FAQs, reducing repetitive front-desk inquiries  
 > Implemented Groq AI chatbot by scraping and structuring site content for accurate responses  
 **Tech:** Python, Flask, HTML/CSS, JavaScript, integrated-Groq AI
 
-🔹 **Restaurant Recommendation System**  
+🌸 **Restaurant Recommendation System**  
 > C++ application that suggests top restaurants by cuisine, distance, and ratings  
 **Tech:** C++, data structures, file I/O  
 
-🔹 **Calendar & Schedule Manager**  
+🌸 **Calendar & Schedule Manager**  
 > Command-line scheduling tool with persistent storage and clean data handling  
 **Tech:** C++, OOP  
 
