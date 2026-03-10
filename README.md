@@ -14,7 +14,7 @@
 </div>
 
 💻 CS junior with hands-on experience building real-world web and C++ applications<br>
-🎀 A member of WIC at CSULB
+🎀 A member of WIC at CSULB<br>
 🎯 Actively seeking a **Fullstack Engineering or Data Science internship** to learn, contribute and grow<br>
 ⭐ Interested in system design, data science, and UX/UI development<br>
 🦷 Part-time dental assistant - bringing real user pain points into software solutions<br>
