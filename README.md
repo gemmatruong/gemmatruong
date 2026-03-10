@@ -18,7 +18,7 @@
 🎯 Actively seeking a **Fullstack Engineering or Data Science internship** to learn, contribute and grow<br>
 ⭐ Interested in system design, data science, and UX/UI development<br>
 🦷 Part-time dental assistant - bringing real user pain points into software solutions<br>
-👩‍🎤 Patient, consistent, and detail-oriented - demonstrated through long-term projects, debugging C++ systems, and maintaining production-ready Flask apps<br>
+👩‍🎤 Patient, consistent, and detail-oriented<br>
 
 ---
 
